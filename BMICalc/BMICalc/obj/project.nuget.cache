@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZrgUrh0pST8fqGeQ85TSMqDUoNfbE+feAgcv2CEQyPxI29QJ+8PrA4z+9MoNSl7VnDi6y+nOqYEqogoNORqnog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\source\\repos\\BMICalc\\BMICalc\\BMICalc\\BMICalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

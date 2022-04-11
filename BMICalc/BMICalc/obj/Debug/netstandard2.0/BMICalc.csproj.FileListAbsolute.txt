@@ -1,0 +1,15 @@
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\bin\Debug\netstandard2.0\BMICalc.deps.json
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\bin\Debug\netstandard2.0\BMICalc.dll
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\bin\Debug\netstandard2.0\BMICalc.pdb
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.csproj.AssemblyReference.cache
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.AssemblyInfoInputs.cache
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.AssemblyInfo.cs
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.dll
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\refint\BMICalc.dll
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.pdb
+C:\Users\Connor\source\repos\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\ref\BMICalc.dll
